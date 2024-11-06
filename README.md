@@ -13,6 +13,9 @@
 
 **CodeFlex-IDE** simplifies C/C++ development on Android.  Built upon the intuitive Karbon editor, it provides a user-friendly environment for coding, compiling, and running your projects with ease.
 
+## Attention
+Before using this app or viewing its source code, make sure you agree to the terms of this license [LICENSE.md](/LICENSE.md).
+
 ## Features
 //todo
 
