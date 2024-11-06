@@ -3,7 +3,7 @@
   <component name="ProjectMigrations">
     <option name="MigrateToGradleLocalJavaHome">
       <set>
-        <option value="$PROJECT_DIR$" />
+        <option value="$USER_HOME$/Android/AndroidStudioProjects/CodeFlex" />
       </set>
     </option>
   </component>

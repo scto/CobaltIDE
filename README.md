@@ -17,7 +17,11 @@
 Before using this app or viewing its source code, make sure you agree to the terms of this license [LICENSE.md](/LICENSE.md).
 
 ## Features
-//todo
+
+- [ ] GCC and G++
+- [ ] Clang
+- [ ] C/C++ LSP Server
+- [ ] Auto Completion
 
 ## Community
 

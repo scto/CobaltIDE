@@ -114,7 +114,7 @@ android {
     }
     
     defaultConfig {
-        applicationId = "com.rk.xededitor"
+        applicationId = "com.rk.xededitor.cpp"
         minSdk = 26
         //noinspection ExpiredTargetSdkVersion
         targetSdk = 28

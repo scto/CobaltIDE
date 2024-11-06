@@ -25,7 +25,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Karbon"
+rootProject.name = "CodeFlex-IDE"
 include(":app")
 
 include(":editor:editor")
