@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/fastlane/metadata/android/en-US/images/icon.png" alt="CodeFlex-IDEr" width="90" height="90"/>
+  <img src="/fastlane/metadata/android/en-US/images/icon.png" alt="CobaltIDE" width="90" height="90"/>
 </p>
 
 <h2 align="center"><b>CobaltIDE</b></h2>
@@ -11,7 +11,7 @@
   <img src="https://github.com/Rohitkushvaha01/Xed-Editor/actions/workflows/android.yml/badge.svg?event=push" alt="CI">
 </div>
 
-**CodeFlex-IDE** simplifies C/C++ development on Android.  Built upon the intuitive Karbon editor, it provides a user-friendly environment for coding, compiling, and running your projects with ease.
+**CobaltIDE** simplifies C/C++ development on Android.  Built upon the intuitive Karbon editor, it provides a user-friendly environment for coding, compiling, and running your projects with ease.
 
 ## Attention
 Before using this app or viewing its source code, make sure you agree to the terms of this license [LICENSE.md](/LICENSE.md).
@@ -25,7 +25,7 @@ Before using this app or viewing its source code, make sure you agree to the ter
 
 ## Community
 
-Join the Karbon/CodeFlex-IDE community to stay updated and engage with other users:
+Join the Karbon/CobaltIDE community to stay updated and engage with other users:
 - [Telegram](https://t.me/Xed_Editor)
 
 ## Installation
